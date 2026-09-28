@@ -50,7 +50,7 @@ ExamGuard Local is a **desktop application** that helps exam proctors detect che
 
 ## 🖼️ Screenshots
 
-> *Add screenshots of the GUI here after running the app*
+
 
 ```
 ┌─────────────────────────────────────────────────┐

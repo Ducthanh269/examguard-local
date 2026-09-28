@@ -1,0 +1,7 @@
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+# Keep the tested legacy Tasks runtime: newer wheels attempted telemetry during
+# offline model smoke tests. Re-audit network behaviour before upgrading.
+mediapipe==0.10.21
+Pillow==12.3.0
+PySide6==6.11.2

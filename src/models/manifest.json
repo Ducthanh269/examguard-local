@@ -1,0 +1,16 @@
+{
+  "face_landmarker.task": {
+    "url": "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task",
+    "min_size": 3000000,
+    "source": "Google MediaPipe Face Landmarker, float16 version 1",
+    "sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff",
+    "size": 3758596
+  },
+  "yolox.onnx": {
+    "url": "https://media.githubusercontent.com/media/opencv/opencv_zoo/main/models/object_detection_yolox/object_detection_yolox_2022nov.onnx",
+    "sha256": "c5c2d13e59ae883e6af3b45daea64af4833a4951c92d116ec270d9ddbe998063",
+    "min_size": 35000000,
+    "source": "OpenCV Zoo YOLOX-S, COCO 80 classes, November 2022",
+    "size": 35858002
+  }
+}
